@@ -25,9 +25,6 @@ Repositório de exercícios de C++ organizados por nível de dificuldade, desenv
 | 2.4 | Matriz Transposta | `array 2D dinâmico`, `int**` |
 | 2.5 | Crivo de Eratóstenes | `array booleana`, `cmath.sqrt()` |
 
-### 🔲 Nível 3 — Structs, Ponteiros e STL
-### 🔲 Nível 4 — Projetos Integradores
-
 ---
 
 ## Estrutura do Repositório
