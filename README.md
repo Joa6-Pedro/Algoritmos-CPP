@@ -1,6 +1,6 @@
 # MeusAlgoritmos-CPP
 
-Repositório de exercícios de C++ organizados por nível de dificuldade, desenvolvidos como parte do meu aprendizado seguindo o [learncpp.com](https://www.learncpp.com).
+Repositório de exercícios de C++ organizados por nível de dificuldade, desenvolvidos como parte do meu aprendizado seguindo o guia [learncpp.com](https://www.learncpp.com).
 
 ---
 
